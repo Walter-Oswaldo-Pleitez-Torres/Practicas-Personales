@@ -13,7 +13,7 @@ int main(){
     cout<<"Digite uno mas: "<<endl;
     cin>>n2;
 
-    mayor = encontrarMax(n1, n2);
+    mayor = encontrarMax(n1, n2);//LLAMADO A LA FUNCION
     cout<<"El numero mayor es: "<<mayor<<endl;    
 
     getch();
